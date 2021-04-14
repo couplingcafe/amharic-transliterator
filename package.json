@@ -1,5 +1,6 @@
 {
   "name": "@coupling/amharic-transliterator",
+  "private": false,
   "version": "1.0.0",
   "description": "Transliterate (romanize) Amharic words.",
   "main": "index.js",
