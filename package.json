@@ -1,0 +1,22 @@
+{
+  "name": "@coupling/amharic-transliterator",
+  "version": "1.0.0",
+  "description": "Transliterate (romanize) Amharic words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/learncoupling/amharic-transliterator.git"
+  },
+  "keywords": [
+    "amharic"
+  ],
+  "author": "Kevin Ngo <kevin@learncoupling.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learncoupling/amharic-transliterator/issues"
+  },
+  "homepage": "https://github.com/learncoupling/amharic-transliterator#readme"
+}
